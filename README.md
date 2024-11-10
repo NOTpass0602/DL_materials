@@ -1,2 +1,2 @@
 # DL_materials
-1
+Some learning materials regarding deep learning and scientific research. 
